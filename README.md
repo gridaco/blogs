@@ -1,2 +1,2 @@
 # blogs
-Bridged blogs - anyone can publish on bridged blog
+Grida blogs - anyone can publish on bridged blog
