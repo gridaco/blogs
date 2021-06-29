@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# no nom
+package-lock.json
+
+# misc
+.DS_Store
